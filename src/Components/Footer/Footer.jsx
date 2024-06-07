@@ -12,15 +12,7 @@ const Footer = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
             </div>
-            <div className="footer-top-right">
-                <div className="footer-email-input">
-                    <img src={user_icon} alt="" />
-                    <input type="email" placeholder="Enter your email" />
-                </div>
-                <div className="footer-email-button">
-                 Visit to My GitHub
-                </div>
-            </div>
+           
         </div>
         <hr />
         <div className="footer-bottom">
