@@ -78,7 +78,7 @@
         margin-left: -20px;
     }
     .mywork-container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr ;
         gap: 30px;  
     }
     .mywork-container img{
