@@ -8,3 +8,11 @@
     color: white;
     font-family: 'Outfit';
  }
+ @media (max-width: 768px) {
+   *{
+      margin: 0;
+    padding: 0;
+
+   }
+   
+ }
