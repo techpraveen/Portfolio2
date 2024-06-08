@@ -67,11 +67,11 @@
  }
  @media  (max-width: 768px) {
     .footer{
-        margin: 50px 70px;
+        margin: 50px 30px;
     }
     .footer-top{
         flex-direction: column;
-        gap: 50px;
+        gap: 20px;
     }
     .footer-bottom{
       display: flex;
@@ -98,8 +98,17 @@
     }
     .footer-bottom-left{
         text-align: center;
+
     }
-    
+    .footer-bottom-right{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .footer hr{
+      width: 250px;
+      
+    }
    
  }
  

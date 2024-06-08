@@ -118,7 +118,7 @@
         margin: 70px 40px;
         align-items: start;
         margin-right: 20px;
-        margin-left: 60px;
+        margin-left: 40px;
     }
     .contact-title h1{
         font-size: 40px;
@@ -129,7 +129,7 @@
     }
     .contact-title img{
         width: 130px;
-        margin-right: -20px;
+        margin-right: 40px;
     }
     .contact-section{
         flex-direction: column;
@@ -144,17 +144,21 @@
     
     
     .contact-left p{
-        width: auto;
+        width: 250px;
         font-size: 15px;
-        margin-right: 40px;
-
+        
         
         
          
        
     }
+    .contact-detail{
+        font-size: 15px;
+        gap: 10px;
+        width: 250px;
+    }
     .contact-detail img{
-        width: 25px;
+        width: 15px;
     
         
         
