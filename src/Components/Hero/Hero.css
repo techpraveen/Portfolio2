@@ -58,6 +58,10 @@
 .hero-resume:hover{
  border-color: #B923EB;
 }
+.resume{
+    text-decoration: none;
+    color: white;
+}
 @media   (max-width: 768px) {
     .hero{
         margin: 70px 40px;
