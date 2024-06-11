@@ -167,9 +167,15 @@
     .contact-right label{
         font-size: 20px;
     }
+    .contact-right{
+        align-items: start;
+    }
     .contact-right input{
         width: 95%;
         font-size: 20px;
+        margin-left:-5px ;
+       
+        margin-right:10;
       
     }
     
@@ -177,6 +183,8 @@
         width: 85%;
         font-size: 20px;
         height: 400px;
+        
+        margin-left:-5px ;
     }
     .contact-submit{
         font-size: 20px;
