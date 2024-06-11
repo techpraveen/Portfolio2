@@ -183,6 +183,13 @@
         padding: 15px 40px;
 
     }
+    .contact-right input{
+        width: 100%;
+
+    }
+    .contact-right textarea{
+        width: 95%;
+    }
 
     
    }
